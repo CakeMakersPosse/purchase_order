@@ -1,0 +1,17 @@
+html {
+    border: 10px solid purple;
+    height: 100%;
+}
+body {
+    background-color: lightskyblue;
+    text-align: center;
+}
+link {
+    padding-bottom: 5px;
+    padding-top: 3px;
+}
+input {
+    padding-bottom: 5px;
+    padding-top: 3px;
+    text-align: center;
+}
